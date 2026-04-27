@@ -65,6 +65,7 @@ Currently focused on:
 
 ## 🏆 Certifications
 - AWS Certified Cloud Practitioner (CCP)
+- AWS Certified Solutions Architect Associate
 - **Google Cloud Foundations — NPTEL**
 
 ---
