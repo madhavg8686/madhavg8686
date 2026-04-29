@@ -72,7 +72,7 @@ Currently focused on:
 ---
 
 ## 📈 Currently Learning
-- AWS Solutions Architect – Associate
+- DSA
 - Infrastructure as Code (Terraform)
 - Serverless Architecture designing 
 
