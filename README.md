@@ -1,4 +1,4 @@
-## Hi there 👋
+## "HELLO WORLD" 👋
 
 B.E. Computer Science Engineering Student  
 ☁️ Cloud | 🤖 AI | 📊 Data | 🏗️ Scalable Systems  
@@ -10,9 +10,10 @@ I am a Computer Science Engineering undergraduate with a strong interest in **Cl
 I enjoy building **end-to-end projects**, learning industry-relevant tools, and continuously improving my problem-solving skills.
 
 Currently focused on:
-- Cloud Architecture (AWS & GCP)
-- Machine Learning fundamentals
+- Cloud Architecture (AWS)
+- MLOps
 - Backend and scalable system design
+- DSA
 
 ---
 
@@ -28,7 +29,7 @@ Currently focused on:
 - Python — Proficient
 - SQL — Proficient
 - Java - Beginner 
-- Bash / Shell Scripting — Basic
+- Bash / Shell Scripting — Intermediate
 
 ### 🤖 AI & Data
 - Machine Learning fundamentals
@@ -50,7 +51,7 @@ Currently focused on:
 - Secure access with IAM
 - Logs and monitoring via CloudWatch
 
-🔗 Repository: *(link here)*
+
 
 ---
 
@@ -59,7 +60,7 @@ Currently focused on:
 - Model training and evaluation
 - Visualization of results
 
-🔗 Repository: *(link here)*
+
 
 ---
 
@@ -86,7 +87,7 @@ Currently focused on:
 ## 📫 Contact
 - 📧 Email: madhav.g8686@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/madhav-g-715202217?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-- 🌐 Portfolio Website: *(coming soon)*
+- 🌐 Portfolio Website: https://madhavg8686.github.io/Portfolio/
 
 ---
 
