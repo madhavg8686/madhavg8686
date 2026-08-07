@@ -7,11 +7,11 @@ B.E. Computer Science Engineering Student
 
 ## 👋 About Me
 I am a Computer Science Engineering undergraduate with a strong interest in **Cloud Computing, Artificial Intelligence, and System Design**.  
-I enjoy building **end-to-end projects**, learning industry-relevant tools, and continuously improving my problem-solving skills.
+I enjoy building end-to-end projects, learning industry-relevant tools, and continuously improving my problem-solving skills.
 
 Currently focused on:
 - Cloud Architecture (AWS)
-- MLOps
+- IaC
 - Backend and scalable system design
 - DSA
 
@@ -28,6 +28,7 @@ Currently focused on:
 ### 🧑‍💻 Technical Languages
 - Python — Proficient
 - SQL — Proficient
+- Terraform - Proficient
 - Java - Beginner 
 - Bash / Shell Scripting — Intermediate
 
@@ -67,13 +68,14 @@ Currently focused on:
 ## 🏆 Certifications
 - AWS Certified Cloud Practitioner (CCP)
 - AWS Certified Solutions Architect Associate
+- Hashicorp Certified Terraform Associate
 - **Google Cloud Foundations — NPTEL**
 
 ---
 
 ## 📈 Currently Learning
 - DSA
-- Infrastructure as Code (Terraform)
+- Designing Projects
 - Serverless Architecture designing 
 
 ---
