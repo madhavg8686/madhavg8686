@@ -76,13 +76,14 @@ Currently focused on:
 ## 📈 Currently Learning
 - DSA
 - Designing Projects
-- Serverless Architecture designing 
+- Serverless Architecture designing
+- Docker
 
 ---
 
 ## 🎯 Career Goals
 - Short-term: Secure a strong internship / entry-level role
-- Long-term: Become a Solutions Architect / AI Engineer at a top tech company
+- Long-term: Become a Solutions Architect at a top tech company
 
 ---
 
