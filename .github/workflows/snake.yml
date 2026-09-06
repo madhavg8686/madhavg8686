@@ -31,9 +31,9 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
           
       # Push the accumulation of svg lines to a branch
-      # The content will be available at https://githubusercontent.com<github_user>/<repository>/<target_branch>/<file> , or as github page
+      # The content will be available at https://githubusercontent.com<github_user>/<repository>/<target_branch>/<file>
       - name: push github-contribution-grid-snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
