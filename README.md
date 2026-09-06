@@ -99,3 +99,10 @@ This repository serves as a **central hub** for my projects, certifications, and
 I am always open to feedback and collaboration.
 
 ⭐ If you find my work interesting, feel free to star the repository!
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
+  <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
+  <img alt="GitHub Contribution Snake Animation" src="https://githubusercontent.com">
+</picture>
+
