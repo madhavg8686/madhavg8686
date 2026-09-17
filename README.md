@@ -100,9 +100,5 @@ I am always open to feedback and collaboration.
 
 ⭐ If you find my work interesting, feel free to star the repository!
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/madhavg8686">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/madhavg8686">
-  <img alt="GitHub Contribution Snake Animation" src="https://github.com/madhavg8686">
-</picture>
+![GitHub Contribution Snake](https://raw.githubusercontent.com/madhavg8686/madhavg8686/output/github-contribution-grid-snake.svg)
 
