@@ -183,7 +183,7 @@ Cloud Architecture · Infrastructure as Code · DevOps & Automation · High Avai
 
 ## 🗺️ What I'm Working Toward
 
-\`\`\`text
+\`\`\
 Software Engineering Fundamentals
             +
       Cloud Engineering
