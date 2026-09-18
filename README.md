@@ -1,441 +1,250 @@
-Absolutely. I’d keep the README honest and recruiter-oriented: AWS/Terraform/DevOps/DSA as your current direction, ML as a project-level skill, and GenAI/RAG strictly under learning.
+# Madhav G
 
-# Hi, I'm Madhav G 👋
+### Cloud & DevOps Engineer | AWS | Terraform | Python
 
-### Cloud & DevOps Engineer | AWS | Terraform | Python | DSA
+Final-year Computer Science Engineering student focused on **Cloud Engineering, DevOps, Infrastructure as Code, and software engineering fundamentals**.
 
-I'm a final-year Computer Science Engineering student focused on
-**Cloud Engineering, DevOps, Infrastructure as Code, and software fundamentals**.
+I build hands-on cloud projects to understand how systems are designed, deployed, monitored, and automated. Alongside cloud engineering, I am strengthening my problem-solving skills through consistent Data Structures and Algorithms practice in Python.
 
-I enjoy building practical projects with AWS and Terraform while strengthening
-my problem-solving skills with Python and Data Structures & Algorithms.
-
-I'm also currently exploring **Generative AI and RAG** to understand how AI
-applications can be integrated with cloud infrastructure and real-world systems.
+Currently exploring **Generative AI and retrieval-based applications**.
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🎓 B.E. Computer Science Engineering — SVCE, 2023–2027
-- ☁️ Focused on **Cloud Engineering & DevOps**
-- 🏗️ Building infrastructure using **AWS + Terraform**
-- 🐳 Learning and applying **Docker & containerized deployments**
-- 🧠 Strengthening **Data Structures & Algorithms using Python**
-- 🤖 Currently learning **Generative AI, RAG and AI application development**
-- 🔧 Interested in cloud automation, reliability, scalability and deployment
-- 💼 Open to **Cloud / DevOps / Cloud Engineer / Software Engineer** opportunities
-
-> My goal is to build a strong foundation in software and cloud engineering
-> through hands-on projects and continuous problem solving.
-
----
-
-## 🛠️ Tech Stack
-
-### ☁️ Cloud
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)
-![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
-![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
-![CloudFront](https://img.shields.io/badge/CloudFront-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Route53](https://img.shields.io/badge/Route_53-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white)
-![RDS](https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonaws&logoColor=white)
-![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
-![API Gateway](https://img.shields.io/badge/API_Gateway-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
-![IAM](https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white)
-![SQS](https://img.shields.io/badge/SQS-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
-![SNS](https://img.shields.io/badge/SNS-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-### ⚙️ DevOps & Infrastructure
-
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-### 💻 Programming
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
-
-### 🤖 AI / Data
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+- B.E. Computer Science Engineering — SVCE, 2023–2027
+- Focused on **Cloud Engineering and DevOps**
+- AWS Certified Solutions Architect – Associate
+- HashiCorp Certified: Terraform Associate
+- Building infrastructure using **AWS and Terraform**
+- Working with **Docker, Git, and CI/CD**
+- Practicing **Data Structures & Algorithms in Python**
+- Exploring **Generative AI, RAG, and AI applications**
+- Interested in cloud architecture, automation, reliability, and scalability
+- Open to **Cloud / DevOps / Cloud Engineer / Software Engineer** opportunities
 
 ---
 
-## 🏆 Certifications
+## Technical Skills
 
-- ☁️ **AWS Certified Solutions Architect – Associate**
-- ☁️ **AWS Certified Cloud Practitioner**
-- 🏗️ **HashiCorp Certified: Terraform Associate**
-- ☁️ **Google Cloud Computing Foundations — NPTEL**
+**Cloud**
+
+AWS — EC2, S3, Lambda, CloudFront, Route 53, RDS, CloudWatch, API Gateway, IAM, SQS, SNS
+
+**Infrastructure & DevOps**
+
+Terraform, Docker, Git, GitHub Actions
+
+**Programming**
+
+Python, SQL
+
+**Data & Machine Learning**
+
+Scikit-learn, Pandas, NumPy, Machine Learning
 
 ---
 
-## 🔥 Featured Projects
+# Engineering Work
 
-### 🩺 Doctor for Route 53
+## Cloud & Infrastructure Projects
 
-**AWS Route 53 + CloudWatch + SNS**
+### Doctor for Route 53
 
-A fault-detection and notification system using Route 53 health checks,
-CloudWatch alarms and SNS notifications.
+**AWS Route 53 · CloudWatch · SNS**
 
-**Key concepts:**
+Built a monitoring and notification system around Route 53 health checks.
 
-- Route 53 Health Checks
-- CloudWatch Monitoring
-- SNS Notifications
+**What I worked on**
+
+- Route 53 health checks
+- CloudWatch alarms
+- SNS notifications
 - Failure detection
-- Automated alerting
+- Monitoring and alerting
+- AWS reliability concepts
 
-🔗 [View Project](https://github.com/madhavg8686/Doctor_for_Route_53)
+**Repository**
+
+[Doctor for Route 53](https://github.com/madhavg8686/Doctor_for_Route_53)
 
 ---
 
-### 🔵 AWS Lambda Safe Deployment
+### AWS Lambda Safe Deployment
 
-**AWS Lambda + API Gateway + Versions + Aliases**
+**AWS Lambda · API Gateway · Lambda Versions · Lambda Aliases**
 
-A deployment project exploring safer release strategies for AWS Lambda
-applications.
+Built an experimental deployment setup to understand how safer application releases can be implemented using AWS Lambda traffic shifting.
 
-**Key concepts:**
+**What I worked on**
 
 - Lambda versions
 - Lambda aliases
-- Blue/Green deployment
-- Canary deployment
 - Weighted traffic routing
+- Canary deployments
+- Blue/Green deployment concepts
 - API Gateway integration
 
-🔗 [View Repository](https://github.com/madhavg8686)
+The project helped me understand how application traffic can be gradually shifted between different versions instead of replacing an existing release all at once.
 
 ---
 
-### 🏗️ Terraform Remote Backend
+### Terraform Remote Backend
 
-**Terraform + AWS S3**
+**Terraform · AWS S3**
 
-Infrastructure-as-Code project focused on Terraform remote state management.
+Built a Terraform infrastructure project focused on managing Terraform state using an S3 remote backend.
 
-**Key concepts:**
+**What I worked on**
 
-- Terraform state
-- S3 remote backend
+- Terraform state management
+- Remote state
+- S3 backend
 - Infrastructure as Code
-- State management
 - Reproducible infrastructure
 
-🔗 [View Repository](https://github.com/madhavg8686)
+The project was built to understand how Terraform state is managed in a more realistic infrastructure workflow.
 
 ---
 
-### 📊 Cloud Data Processing Pipeline
+### Cloud Data Processing Pipeline
 
-**S3 → Lambda → Glue → S3 → QuickSight**
+**Amazon S3 · Lambda · Glue · QuickSight**
 
-A cloud-based data processing pipeline built around event-driven data
-processing and transformation.
+Built an event-driven data processing workflow that moves raw data through serverless processing and transformation before making the processed data available for analytics.
 
-**Architecture:**
+**Workflow**
 
 ```text
 Raw Data
-   │
-   ▼
+    |
+    v
 Amazon S3
-   │
-   ▼
+    |
+    v
 AWS Lambda
-   │
-   ▼
+    |
+    v
 AWS Glue
-   │
-   ▼
-Processed S3 Data
-   │
-   ▼
+    |
+    v
+Processed Data
+    |
+    v
 Amazon QuickSight
-
-Concepts:
-
-Event-driven architecture
-
+What I worked on
+S3-based data storage
 Serverless processing
-
-ETL
-
-IAM
-
+ETL workflows
+AWS Glue
+IAM permissions
 Data transformation
-
 Cloud analytics
-
-
-
----
-
-🤖 Employee Attrition Prediction
-
-Python + Scikit-learn + Random Forest
-
-A machine learning project using the IBM HR Analytics dataset to predict employee attrition.
-
-Key concepts:
-
+Machine Learning Project
+Employee Attrition Prediction
+Python · Scikit-learn · Random Forest
+Built a machine learning model using the IBM HR Analytics dataset to predict employee attrition.
+What I worked on
 Data preprocessing
-
-Feature engineering
-
+Feature preparation
 Classification
-
 Random Forest
-
 Model evaluation
-
-
-🔗 View Repository
-
-
----
-
-🧠 Data Structures & Algorithms
-
-I'm actively strengthening my problem-solving skills using Python.
-
-Current Focus
-
+Working with structured datasets
+This project gave me practical exposure to the machine learning workflow from data preparation through model evaluation.
+Data Structures & Algorithms
+DSA is an active part of my software engineering preparation.
+Rather than treating DSA as a collection of solved problems, I use it to improve my ability to recognize patterns, reason about complexity, and develop solutions independently.
+Current Practice
+Language: Python
+Topics
 Arrays & Hashing
-
 Two Pointers
-
 Sliding Window
-
 Stack
-
 Binary Search
-
 Linked Lists
-
 Trees
-
 Graphs
-
 Heap / Priority Queue
-
 Intervals
-
 Recursion
-
 Backtracking
-
 Dynamic Programming
-
-
-📚 Practice Repository
-
-🔗 NeetCode Submissions
-
-My approach:
-
-Learn Concept
-     ↓
-Understand Pattern
-     ↓
-Solve Independently
-     ↓
+Problem-Solving Workflow
+Understand the Problem
+        |
+        v
+Identify the Pattern
+        |
+        v
+Develop a Solution
+        |
+        v
+Implement in Python
+        |
+        v
 Analyze Time & Space Complexity
-     ↓
-Review Better Solutions
-     ↓
-Repeat
-
-
----
-
-🤖 Currently Learning
-
+        |
+        v
+Review and Improve
+DSA Repository
+My solutions and ongoing practice are maintained here:
+NeetCode Submissions⁠�
+The repository represents my ongoing preparation rather than a claim of mastery. I am using structured problem solving to progressively improve my interview readiness.
+Currently Learning
 Generative AI
-
-I'm currently expanding my knowledge into Generative AI and retrieval-based AI applications.
-
-Areas I'm learning:
-
+I'm currently expanding beyond my existing cloud and software foundations into Generative AI.
+Areas I'm working through:
 Large Language Models
-
 Embeddings
-
 Vector Databases
-
 Retrieval-Augmented Generation
-
 LangChain
-
 Prompt Engineering
-
 Document Processing
-
 Semantic Search
-
 AI Agents
-
 Tool Calling
-
 Deploying AI applications on cloud infrastructure
-
-
-🎯 Direction
-
-Cloud Engineering
-       +
+The goal is to eventually combine these skills with my cloud background to build practical AI systems rather than treating AI as a standalone topic.
+Areas of Interest
+Cloud Architecture
 Infrastructure as Code
-       +
-DevOps
-       +
-AI Applications
-       ↓
-Cloud-based AI Systems
-
-
----
-
-☁️ Cloud Architecture Interests
-
-I'm particularly interested in:
-
+DevOps & Automation
 High Availability
-
 Fault Tolerance
-
 Scalability
-
+Cloud Security
+Monitoring & Observability
 Cost Optimization
-
-Security
-
-Monitoring
-
-Automation
-
-Infrastructure as Code
-
 Serverless Architecture
-
 Event-driven Systems
+AI-powered Cloud Applications
+Certifications
+AWS Certified Solutions Architect – Associate
+AWS Certified Cloud Practitioner
+HashiCorp Certified: Terraform Associate
+Google Cloud Computing Foundations — NPTEL
+GitHub Activity
+�
+￼ ￼ 
 
-
-Example architecture I'm exploring:
-
-┌───────────────┐
-                    │   Route 53    │
-                    └───────┬───────┘
-                            │
-                            ▼
-                    ┌───────────────┐
-                    │   CloudFront  │
-                    └───────┬───────┘
-                            │
-                  ┌─────────┴─────────┐
-                  ▼                   ▼
-             ┌────────┐         ┌────────────┐
-             │   S3   │         │ API Gateway│
-             └────────┘         └──────┬─────┘
-                                      │
-                                      ▼
-                               ┌────────────┐
-                               │   Lambda   │
-                               └──────┬─────┘
-                                      │
-                         ┌────────────┼────────────┐
-                         ▼            ▼            ▼
-                       SQS           RDS         SNS
-
-
----
-
-📈 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=madhavg8686&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhavg8686&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
-</p><p align="center">
-  <img src="https://streak-stats.demolab.com?user=madhavg8686&theme=tokyonight&hide_border=true" />
-</p>
----
-
-📂 What You'll Find Here
-
-madhavg8686/
-│
-├── ☁️ AWS Projects
-├── 🏗️ Terraform / IaC
-├── ⚙️ DevOps Projects
-├── 🐳 Docker Projects
-├── 🧠 DSA / NeetCode Solutions
-├── 🤖 Machine Learning
-├── 🔎 GenAI / RAG Projects
-└── 📚 Learning & Experiments
-
-
----
-
-🎯 2026 Goals
-
-[x] AWS Cloud Practitioner
-
-[x] AWS Solutions Architect Associate
-
-[x] Terraform Associate
-
-[x] Build practical AWS projects
-
-[x] Build Terraform infrastructure projects
-
-[x] Strengthen DSA
-
-[ ] Complete a structured DSA roadmap
-
-[ ] Build production-oriented Docker projects
-
-[ ] Build a production-grade RAG application
-
-[ ] Explore AI Agents
-
-[ ] Deploy an AI application on AWS
-
-[ ] Contribute to open source
-
-[ ] Start my career in Cloud / DevOps / Software Engineering
-
-
-
----
-
-🌐 Connect With Me
-
-<p align="left"><a href="https://github.com/madhavg8686">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a><a href="https://madhavg8686.github.io/Portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a></p>
----
-
-💡 Philosophy
-
-> Don't just learn the technology. Build something with it.
-
-
-
----
-
-<p align="center">⭐ Thanks for visiting my profile!
-
-Cloud • DevOps • Infrastructure • DSA • AI
-
-</p>
-```
+What I'm Working Toward
+Software Engineering Fundamentals
+              +
+        Cloud Engineering
+              +
+       Infrastructure as Code
+              +
+            DevOps
+              +
+        AI Applications
+              |
+              v
+     Cloud-based AI Systems
+My immediate focus is on becoming stronger at the fundamentals while continuing to build increasingly realistic cloud projects.
+Connect
+GitHub: github.com/madhavg8686⁠�
+Portfolio: madhavg8686.github.io/Portfolio⁠�
+Build. Break. Debug. Understand. Repeat.
