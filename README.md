@@ -208,3 +208,9 @@ My immediate focus is on strengthening the fundamentals while continuing to buil
 - **Portfolio:** [madhavg8686.github.io/Portfolio](https://madhavg8686.github.io/Portfolio)
 
 <p align="center"><i>Build. Break. Debug. Understand. Repeat.</i></p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/<your-username>/<your-repo>/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/<your-username>/<your-repo>/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/<your-username>/<your-repo>/output/github-contribution-grid-snake.svg" />
+</picture>
