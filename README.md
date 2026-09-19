@@ -20,6 +20,7 @@ I build hands-on cloud projects to understand how systems are designed, deployed
 
 - 🎓 B.E. Computer Science Engineering — SVCE, 2023–2027
 - ☁️ Focused on **Cloud Engineering and DevOps**
+- 🏆 AWS Certified Cloud Practitioner 
 - 🏆 AWS Certified Solutions Architect – Associate
 - 🏆 HashiCorp Certified: Terraform Associate
 - 🏗️ Building infrastructure using **AWS and Terraform**
