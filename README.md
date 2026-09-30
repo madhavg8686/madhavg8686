@@ -171,16 +171,7 @@ Cloud Architecture · Infrastructure as Code · DevOps & Automation · High Avai
 
 ---
 
-## 📈 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=madhavg8686&show_icons=true&theme=default" alt="Madhav's GitHub stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=madhavg8686" alt="Madhav's GitHub streak" />
-</p>
-
----
 
 ## 🗺️ What I'm Working Toward
 
