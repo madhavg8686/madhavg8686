@@ -196,7 +196,7 @@ My immediate focus is on strengthening the fundamentals while continuing to buil
 
 ## 📈 My GitHub Contributions
 
-![GitHub Contribution Graph](https://ghchart.rshah.org/409ba5/madhavg8686)
+![GitHub Contributions](https://ghchart.xqsit94.in/madhavg8686)
 
 ## 📫 Connect
 
