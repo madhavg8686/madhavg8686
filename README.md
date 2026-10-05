@@ -193,9 +193,10 @@ Software Engineering Fundamentals
 My immediate focus is on strengthening the fundamentals while continuing to build increasingly realistic cloud projects.
 
 ---
-## 📊 GitHub Activity
 
-![Madhav's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=madhavg8686&theme=github-compact&hide_border=true)
+## 📊 GitHub Contributions
+
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=madhavg8686&theme=github-dark&hide_border=true)
 
 
 ## 📫 Connect
