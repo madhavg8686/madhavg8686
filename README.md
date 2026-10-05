@@ -194,10 +194,9 @@ My immediate focus is on strengthening the fundamentals while continuing to buil
 
 ---
 
-## 📊 GitHub Contributions
+## 📈 My GitHub Contributions
 
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=madhavg8686&theme=github-dark&hide_border=true)
-
+![GitHub Contribution Graph](https://ghchart.rshah.org/409ba5/madhavg8686)
 
 ## 📫 Connect
 
