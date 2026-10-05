@@ -193,6 +193,10 @@ Software Engineering Fundamentals
 My immediate focus is on strengthening the fundamentals while continuing to build increasingly realistic cloud projects.
 
 ---
+## 📊 GitHub Activity
+
+![Madhav's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=madhavg8686&theme=github-compact&hide_border=true)
+
 
 ## 📫 Connect
 
@@ -201,8 +205,10 @@ My immediate focus is on strengthening the fundamentals while continuing to buil
 
 <p align="center"><i>Build. Break. Debug. Understand. Repeat.</i></p>
 
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/madhavg8686/madhavg8686/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/madhavg8686/madhavg8686/output/github-contribution-grid-snake.svg" />
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/madhavg8686/madhavg8686/output/github-contribution-grid-snake.svg" />
 </picture>
+
