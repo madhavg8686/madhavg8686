@@ -201,7 +201,7 @@ My immediate focus is on strengthening the fundamentals while continuing to buil
 ## 📫 Connect
 
 - **GitHub:** [github.com/madhavg8686](https://github.com/madhavg8686)
-- **Portfolio:** [madhavg8686.github.io/Portfolio](https://madhavg8686.github.io/Portfolio)
+- **Portfolio:** https://madhavgportfolio.vercel.app/
 
 <p align="center"><i>Build. Break. Debug. Understand. Repeat.</i></p>
 
