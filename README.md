@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Madhav G</h1>
+<h1 align="center">Hi , I'm Madhav G</h1>
 <h3 align="center">Cloud & DevOps Engineer | AWS | Terraform | Python</h3>
 
 <p align="center">
